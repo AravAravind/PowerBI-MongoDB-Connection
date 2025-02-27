@@ -67,7 +67,7 @@ Power BI MongoDB Connection – A step-by-step guide on connecting Power BI to a
 ## Confirmation  
 
  
-  ![8](images/9.png)  
+  ![8](images/8.png)  
 
  
   ![9](images/9.png)  
