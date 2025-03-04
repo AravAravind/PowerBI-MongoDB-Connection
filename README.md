@@ -81,6 +81,7 @@ Power BI MongoDB Connection – A step-by-step guide on connecting Power BI to a
 - Check **firewall settings** if connection issues occur.  
 - Use the correct **ODBC driver version** that matches your MongoDB setup.  
 
-## Author  
+## Connect with Me
 
-[Aravind R](https://linkedin.com/in/arav-r) 
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
